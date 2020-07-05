@@ -1152,8 +1152,8 @@
         "affectsGlobalScope": false
       },
       "../src/app.controller.ts": {
-        "version": "260f889b9e2b69f77be1155348eb345166aec664b3efff6720053c6844a41f28",
-        "signature": "3293b0d1d6a7f902316e164fcf36ae099f1bbb0224484586eaab30d9dea78d32",
+        "version": "f37122653fd9af87aa331b150e10acf1b915aafa6a0243264508565b1277e88f",
+        "signature": "4f8a051d2249d5dcdba163ddf24cda80924a9d6cb6b0d62ec6ccafbc91c8d757",
         "affectsGlobalScope": false
       },
       "../src/app.module.ts": {

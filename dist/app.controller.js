@@ -19,6 +19,9 @@ let AppController = class AppController {
     getHello() {
         return this.appService.getHello();
     }
+    getFavicon() {
+        return this.appService.getHello();
+    }
 };
 __decorate([
     common_1.Get(),
@@ -26,6 +29,12 @@ __decorate([
     __metadata("design:paramtypes", []),
     __metadata("design:returntype", String)
 ], AppController.prototype, "getHello", null);
+__decorate([
+    common_1.Get('favicon.ico'),
+    __metadata("design:type", Function),
+    __metadata("design:paramtypes", []),
+    __metadata("design:returntype", String)
+], AppController.prototype, "getFavicon", null);
 AppController = __decorate([
     common_1.Controller(),
     __metadata("design:paramtypes", [app_service_1.AppService])
