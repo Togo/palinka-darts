@@ -1387,7 +1387,7 @@
         "affectsGlobalScope": false
       },
       "../src/app.module.ts": {
-        "version": "24f2daaef27cca73c1b6b2dfdfa4142bb71a90759af4d5b5773c8a6150cc4154",
+        "version": "de7ea6a1a91da3d66d349025c634e673b2be55bada2b3fe0ee8c6a7263950477",
         "signature": "9fc7f7b6ad854404973b8cba8e6d883f758237991968e9a3965d716d46f1da88",
         "affectsGlobalScope": false
       },
@@ -9037,7 +9037,6 @@
       "../node_modules/typescript/lib/lib.scripthost.d.ts",
       "../node_modules/typescript/lib/lib.webworker.importscripts.d.ts",
       "../src/app.controller.ts",
-      "../src/app.module.ts",
       "../src/app.service.ts",
       "../src/main.ts"
     ]

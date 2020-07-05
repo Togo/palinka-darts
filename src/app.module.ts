@@ -6,7 +6,7 @@ import { join } from 'path'; // New
 
 @Module({
   imports: [ ServeStaticModule.forRoot({ 
-    rootPath: join('client/dist'),
+    rootPath: join(__dirname,'../..', '/client/dist'),
   })],
 
   controllers: [AppController],
